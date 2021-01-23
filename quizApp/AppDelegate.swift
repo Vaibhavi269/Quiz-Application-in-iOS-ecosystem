@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  quizApp
 //
-//  Created by Kunjal kotadia on 2020-07-30.
-//  Copyright © 2020 Kunjal kotadia. All rights reserved.
+//  Created by Vaibhavi dalwadi on 2020-07-30.
+//  Copyright © 2020 Vaibhavi dalwadi. All rights reserved.
 //
 
 import UIKit
